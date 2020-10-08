@@ -8,4 +8,10 @@ Class03 o-- Class04 : aggregation
 
 Class05 --> "1" Class06
 
+legend right
+|= |= Type |
+|<back:red><U+3000></back> | Red |
+|<back:blue><U+3000></back> | Blue |
+endlegend
+
 @enduml

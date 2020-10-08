@@ -13,6 +13,9 @@ skinparam defaultFontColor #4B0082
 skinparam backgroundColor transparent
 skinparam horizontalMargin 20
 
+skinparam DiagramBorderColor transparent
+skinparam DiagramBorderThickness 0.5
+
 skinparam BoxPadding 1
 skinparam Padding 2
 
@@ -84,8 +87,7 @@ skinparam DesignedDomainBorderThickness 0.5
 
 skinparam DesignedDomainStereotypeFontName Arial Narrow
 skinparam DesignedDomainStereotypeFontSize 5
-skinparam DiagramBorderColor #4B0082
-skinparam DiagramBorderThickness 0.5
+
 skinparam DomainBackgroundColor #FEB200
 skinparam DomainBorderColor #4B0082
 skinparam DomainBorderThickness 0.5
@@ -127,7 +129,11 @@ skinparam InterfaceBorderColor #4B0082
 
 skinparam InterfaceStereotypeFontName Arial Narrow
 skinparam InterfaceStereotypeFontSize 5
-skinparam LegendBackgroundColor #FEB200
+
+skinparam LegendBackgroundColor lightYellow
+skinparam LegendFontColor #4B0082
+skinparam LegendFontName Arial Narrow
+skinparam LegendFontSize 8
 skinparam LegendBorderColor #4B0082
 skinparam LegendBorderThickness 0.5
 

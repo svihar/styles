@@ -28,9 +28,9 @@ skinparam ActivityBorderColor #4B0082
 skinparam ActivityBorderThickness 0.5
 skinparam ActivityDiamondBackgroundColor #FEB200
 skinparam ActivityDiamondBorderColor #4B0082
-skinparam ActorBackgroundColor #FEB200 #FEB200
+skinparam ActorBackgroundColor #FEB200
 skinparam ActorBorderColor #4B0082
-skinparam AgentBackgroundColor #FEB200 #FEB200
+skinparam AgentBackgroundColor #FEB200
 skinparam AgentBorderColor #4B0082
 skinparam AgentBorderThickness 0.5
 
